@@ -1,34 +1,23 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+<div align="center">
+  
+  ![ninaassmann](https://github.com/ninaassmann/ninaassmann/assets/97239098/c64360fa-591e-47fc-b1fc-f0a4d4cfbff7)
 
+
+  # Hello there!
+  
+  <br>
+  
+  I'm currently learning Web Development at [neuefische](https://www.neuefische.de/bootcamp/web-development)
+  
+  <br>
+  
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  # Hello there!
+  <br>
 
-  > “Dogs do speak, but only to those who know how to listen.”
-– Orhan Pamuk
- 
----
+  <p> # S T A Y T U N E D </p>
+  
+  <br>
 </div>
-
-## Status
-
-  I'm currently learning Web Development at [neuefische](https://www.neuefische.de/bootcamp/web-development)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ninaassmann&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-## Markdown Stuff
-
-<img src="https://www.ninaassmann.de/assets/ninaassmann-img.jpg" width="200" height="auto" border-radius="50%">
-
-### All about the dogs
-
-For learning some Markdown Language, here is a fancy table about **my dogs**.
-
-| The Dog :dog:  | Age        | Favorite Food  |
-| -------------- |:----------:| --------------:|
-| Freki          | 2.5 years  | chicken        |
-| Geri †         | 8 months   | everything     |
-| Odin           | 0.5 years  | stones & cacti |
