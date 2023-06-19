@@ -21,3 +21,26 @@
   
   <br>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+  <br>
+</div>
+
+<br>
+<div align="center">
+  
+![all about the dogs](https://github.com/ninaassmann/ninaassmann/assets/97239098/3e0242c8-5b4a-437d-9b63-6767c231d578)
+
+### All about the dogs
+
+For learning some Markdown Language, here is a fancy table about **my dogs**.
+
+| The Dog :dog:  | Age        | Favorite Food  |
+| -------------- |:----------:| --------------:|
+| Freki          | 2.5 years  | chicken        |
+| Geri †         | 8 months   | everything     |
+| Odin           | 0.5 years  | stones & cacti |
+</div>
