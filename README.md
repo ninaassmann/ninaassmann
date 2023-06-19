@@ -2,6 +2,10 @@
 > “Dogs do speak, but only to those who know how to listen.”
 – Orhan Pamuk
 
+## Status
+
+I'm currently learning Web Development at [neuefische](https://www.neuefische.de/bootcamp/web-development)
+
 ---
 
 ### Languages
@@ -11,8 +15,6 @@
 - [ ] ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
-I'm currently learning Web Development at [neuefische](https://www.neuefische.de/bootcamp/web-development)
 
 <img src="https://www.ninaassmann.de/assets/ninaassmann-img.jpg" width="200" height="auto" border-radius="50%">
 
