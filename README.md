@@ -19,10 +19,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ninaassmann&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## Languages
-
-
-
 ## Markdown Stuff
 
 <img src="https://www.ninaassmann.de/assets/ninaassmann-img.jpg" width="200" height="auto" border-radius="50%">
