@@ -1,46 +1,16 @@
-<div align="center">
-  
-  ![ninaassmann](https://github.com/ninaassmann/ninaassmann/assets/97239098/c64360fa-591e-47fc-b1fc-f0a4d4cfbff7)
+# About Me:
+I'm currently learning Web Development at neuefische
 
-
-  # Hello there!
-  
-  <br>
-  
-  I'm currently learning Web Development at [neuefische](https://www.neuefische.de/bootcamp/web-development)
-  
-  <br>
-  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-  <br>
-
-  <p> # S T A Y T U N E D </p>
-  
-  <br>
-</div>
+# Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ninaassmann&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ninaassmann&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
-  <br>
-</div>
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/ninaassmann) 
 
-<br>
-<div align="center">
   
-![all about the dogs](https://github.com/ninaassmann/ninaassmann/assets/97239098/3e0242c8-5b4a-437d-9b63-6767c231d578)
-
-### All about the dogs
-
-For learning some Markdown Language, here is a fancy table about **my dogs**.
-
-| The Dog :dog:  | Age        | Favorite Food  |
-| -------------- |:----------:| --------------:|
-| Freki          | 2.5 years  | chicken        |
-| Geri †         | 8 months   | everything     |
-| Odin           | 0.5 years  | stones & cacti |
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
