@@ -9,11 +9,8 @@ I'm currently learning Web Development at neuefische
 The things I'm learning right now - not a pro yet... <br/>
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ninaassmann&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)
 
 
-[![](https://visitcount.itsvg.in/api?id=ninaassmann&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ninaassmann) 
