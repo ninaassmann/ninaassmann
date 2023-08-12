@@ -1,5 +1,6 @@
 # About Me:
 `I'm currently working on my capstone project for the Web Development Bootcampt neue fische`
+
 Feel free to follow my progress: [PawConnect](https://github.com/ninaassmann/nf-capstone-project)
 
 
